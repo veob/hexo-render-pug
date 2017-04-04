@@ -17,9 +17,9 @@
   ],
   "author": "Max Knee (maxknee@gmail.com)",
   "license": "MIT",
-  "dependencies": {
-    "pug": "^2.0.0-beta6"
-  },
+  "peerDependencies": {
+      "pug": "^2.0.0-beta11"
+    },
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^1.10.3",
